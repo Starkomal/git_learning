@@ -1,4 +1,2 @@
-komal:wq
-:wq
-
+hi im komal :q!
 
